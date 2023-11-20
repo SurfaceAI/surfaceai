@@ -6,34 +6,31 @@ header:
   overlay_image: /assets/images/Stockimage.jpg
   overlay_filter: rgba(100, 100, 100, 0.5)
   caption: "Foto: Girts Ragelis/Shutterstock"
-excerpt: "Automatisierte Bestimmung von Straßenbeschaffenheit durch Open Data und Machine Learning"
+excerpt: "Automatic Prediction of Road Surface Type and Quality using Open Data and Machine Learning".
 ---
 
-Laufzeit: November 2023 – Dezember 2024
-{: .text-center}
+Automatic determination of road surface type and quality is crucial for several applications in the transport sector, such as route planning. However, there are few publicly available datasets on road surface type and quality in a standardised format, as they are usually based on manual analysis and require considerable effort. Municipalities in particular could benefit from such datasets and use them for urban planning.
 
-Die automatische Bestimmung von Straßenbelag und -qualität ist für diverse Anwendungen im Verkehrsbereich, wie z.B. Routenplanung, von entscheidender Bedeutung. Es gibt jedoch nur wenige öffentlich zugängliche Datensätze zu Straßenbelag und -qualität in einem einheitlichen Format, da die Erstellung meist auf manueller Analyse beruht und einen erheblichen Aufwand erfordert. Insbesondere Kommunen können von solchen Datensätzen profitieren und sie für die Stadtplanung nutzen.
+# The Project 
+The mFund project SurfaceAI, funded by the German Federal Ministry for Digital and Transport Affairs, aims to close this gap. To achieve this, open geodata and street images are used to train a machine learning model that is able to automatically and precisely categorise road surfaces and quality on images. The information generated is then converted into georeferenced datasets at street level, which will be publicly accessible.
 
-# Das Projekt 
-Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt SurfaceAI  soll diese Lücke schließen. Dazu wird mithilfe öffentlicher Geodaten und Straßenbildern ein Machine Learning Modell trainiert, das in der Lage ist, Straßenoberflächen und -qualität auf Bildern automatisiert und präzise einzustufen. Die generierten Informationen werden anschließend in georeferenzierte Datensätze auf Straßenebene umgewandelt, die öffentlich zugänglich sind.
+# News
+- Links to conferences, publications
 
-# Aktuelles
-- Links zu Konferenzen, Veröffentlichungen
+# Possible Applications and Associated Project Partners
+The project is supported by various organisations that enable the development of use cases and promote networking within the community. 
 
-# Anwendungsmöglichkeiten und assoziierte Projektpartner
-Das Projekt wird von verschiedenen Organisationen unterstützt, die die Ausarbeitung von Anwendungsbeispielen ermöglichen und die Vernetzung innerhalb der Community fördern. 
+These include:
+- the route planning and navigation provider **Komoot**,  
+- the consulting firm **Plan4Better**, which supports local authorities in the development of mobility concepts and has developed the GOAT web tool for accessibility analyses in areas such as walking and cycling,
+- the **CityLAB Berlin** technology foundation, which works at the interface between civil society and administration to promote urban development that is geared towards the common good, and
+- the start-up **FixMyCity**, which uses digital tools to support cities and local authorities in the transport transition, in particular bicycle traffic planning. 
 
-Dazu gehören:
-- der Routenplanungs- und Navigationsanbieter **Komoot**,  
-- die Beratungsfirma **Plan4Better**, die Kommunen bei der Entwicklung von Mobilitätskonzepten unterstützt und das Webtool GOAT für Erreichbarkeitsanalysen u.a. im Fuß- und Radverkehr entwickelt hat,
-- die Technologiestiftung **CityLAB Berlin**, die sich an der Schnittstelle zwischen Zivilgesellschaft und Verwaltung für eine gemeinwohlorientierte Stadtentwicklung einsetzt, und
-- das Start-Up **FixMyCity**, das Städte und Kommunen bei der Verkehrswende, insbesondere der Fahrradverkehrsplanung, durch digital Tools unterstützt. 
-
-Zwei konkrete Anwendungsbereiche für die Nutzung der automatisch generierten Straßenbeschaffenheitsdaten sind bereits angedacht. Zum einen können die Daten direkt in die Routenberechnung von Navigationstools einfließen, zum anderen der Analyse und Planung im Bereich der (Rad-)Verkehrsplanung auf kommunaler Ebene dienen.
+Two specific aplpication scenarios for the use of the automatically generated road condition data are already being considered. On the one hand, the data can be used directly for route calculation in navigation tools; on the other hand, it can be used for analysis and planning in the field of (bicycle) transport planning at municipal level.
 
 # Team
-# Kontakt
-Wir freuen uns über Fragen, Anregungen und Kooperationsmöglichkeiten: ***Surface-AI@HTW-Berlin.de***
+# Contact
+We welcome questions, suggestions and opportunities for co-operation: ***Surface-AI@HTW-Berlin.de***
 
 &nbsp;
 
