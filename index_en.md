@@ -26,7 +26,7 @@ These include:
 - The **CityLAB Berlin** technology foundation, which works at the interface between civil society and administration to promote urban development that is geared towards the common good, and
 - The start-up **FixMyCity**, which uses digital tools to support cities and local authorities in the transport transition, in particular bicycle traffic planning. 
 
-Two specific aplpication scenarios for the use of the automatically generated road condition data are already being considered. On the one hand, the data can be used directly for route calculation in navigation tools; on the other hand, it can be used for analysis and planning in the field of (bicycle) transport planning at municipal level.
+Two specific application scenarios for the use of the automatically generated road condition data are already being considered. On the one hand, the data can be used directly for route calculation in navigation tools; on the other hand, it can be used for analysis and planning in the field of (bicycle) transport planning at municipal level.
 
 # Team
 # Contact
