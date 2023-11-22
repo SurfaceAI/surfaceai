@@ -12,7 +12,7 @@ excerpt: "Automatic Prediction of Road Surface Type and Quality using Open Data 
 Automatic determination of road surface type and quality is essential for various applications in the transport sector, including route planning. However, there is a scarcity of publicly available datasets on road surface type and quality in a standardized format. Typically, such datasets rely on manual analysis and involve substantial effort. Municipalities, in particular, could benefit from these datasets by using them for effective urban planning. 
 
 # The Project 
-The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital and Transport Affairs, aims to address this gap. Open geodata and street images are leveraged to train a machine learning model capable of automatically and precisely categorizing road surfaces and quality in images. The resulting information is converted into georeferenced datasets at the street level, which will be made publicly accessible.
+The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital and Transport Affairs, aims to address this gap. Open geodata and street images are leveraged to train a machine learning model capable of automatically and precisely categorizing road surfaces and quality in images. The resulting information is converted into georeferenced datasets at street level, which will be made publicly accessible.
 
 # News
 - Links to conferences, publications
