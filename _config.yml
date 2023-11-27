@@ -59,7 +59,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true, false (default)
+  hide                   : true, # false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -131,14 +131,24 @@ analytics:
 #       # url: "https://instagram.com/"
 
 # # Site Footer
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url:
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url:
+footer:
+  # copyrightText: Copyright © Redocly 2019-2021. All rights reserved.
+  # columns:
+  #   - group: Legal
+  #     items:
+  #       - label: Terms of Use
+  #         href: 'https://redocly.com/subscription-agreement/'
+  #       - label: Privacy Notice
+  #         href: 'https://redocly.com/privacy-policy/'
+  #       - label: Cookie Notice
+  #         href: 'https://redocly.com/privacy-policy/'
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "Facebook"
+  #     icon: "fab fa-fw fa-facebook-square"
+  #     url: "https://twitter.com/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
 #       # url:
