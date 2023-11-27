@@ -24,16 +24,16 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 Das Projekt wird von verschiedenen Organisationen unterstützt, die die Ausarbeitung von Anwendungsbeispielen ermöglichen und die Vernetzung innerhalb der Community fördern. 
 
 Dazu gehören:
-- der Routenplanungs- und Navigationsanbieter **Komoot**,  
-- die Beratungsfirma **Plan4Better**, die Kommunen bei der Entwicklung von Mobilitätskonzepten unterstützt und das Webtool GOAT für Erreichbarkeitsanalysen u.a. im Fuß- und Radverkehr entwickelt hat,
-- die Technologiestiftung **CityLAB Berlin**, die sich an der Schnittstelle zwischen Zivilgesellschaft und Verwaltung für eine gemeinwohlorientierte Stadtentwicklung einsetzt, und
-- das Start-Up **FixMyCity**, das Städte und Kommunen bei der Verkehrswende, insbesondere der Fahrradverkehrsplanung, durch digital Tools unterstützt. 
+- der Routenplanungs- und Navigationsanbieter [**Komoot**](https://www.komoot.de/),  
+- die Beratungsfirma [**Plan4Better**](https://plan4better.de/), die Kommunen bei der Entwicklung von Mobilitätskonzepten unterstützt und das Webtool GOAT für Erreichbarkeitsanalysen u.a. im Fuß- und Radverkehr entwickelt hat,
+- die Technologiestiftung [**CityLAB Berlin**](https://citylab-berlin.org/de/start/), die sich an der Schnittstelle zwischen Zivilgesellschaft und Verwaltung für eine gemeinwohlorientierte Stadtentwicklung einsetzt, und
+- das Start-Up [**FixMyCity**](https://www.fixmycity.de/), das Städte und Kommunen bei der Verkehrswende, insbesondere der Fahrradverkehrsplanung, durch digital Tools unterstützt. 
 
 Zwei konkrete Anwendungsbereiche für die Nutzung der automatisch generierten Straßenbeschaffenheitsdaten sind bereits angedacht. Zum einen können die Daten direkt in die Routenberechnung von Navigationstools einfließen, zum anderen der Analyse und Planung im Bereich der (Rad-)Verkehrsplanung auf kommunaler Ebene dienen.
 
 # Team
 # Kontakt
-Wir freuen uns über Fragen, Anregungen und Kooperationsmöglichkeiten: ***Surface-AI@HTW-Berlin.de***
+Wir freuen uns über Fragen, Anregungen und Kooperationsmöglichkeiten: ***surface-ai@htw-berlin.de***
 
 &nbsp;
 
