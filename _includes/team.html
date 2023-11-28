@@ -1,0 +1,27 @@
+<!-- _includes/team_member.html -->
+
+<!-- <table style="max-width: 1000px;">
+    <tr>
+        <th style="padding-left: 0">{{ member.name }}</th>
+        <th width="170px"> </th>
+    </tr>
+    <tr>
+        <td style="vertical-align: bottom; border: 0; padding-left: 0;">{{ member.description }}</td>
+        <td style="height: 120px; vertical-align: bottom; border: 0"><img src=".{{ member.image }}" alt="{{ member.name }}"></td>
+    </tr>
+</table> -->
+
+<div>
+    <p style="font-weight: bold;">{{ member.name }}</p>
+
+    <div style="max-width: 1000px; display: flex; align-items: flex-end; justify-content: space-between;">
+        <div style="flex: 0 1 auto;">{{ member.description }}</div>
+        <!-- image not responsive! -->
+        <div style="flex: 0 0 200px;">
+            <div style="max-height: 190px; width: 100%; overflow: hidden;">
+                <img src=".{{ member.image }}" alt="{{ member.name }}" style="width: 100%; height: 100%; object-fit: contain;">
+            </div>
+        </div>
+    </div>
+    <p></p>
+</div>

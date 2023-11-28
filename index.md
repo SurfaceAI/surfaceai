@@ -32,8 +32,14 @@ Dazu gehören:
 Zwei konkrete Anwendungsbereiche für die Nutzung der automatisch generierten Straßenbeschaffenheitsdaten sind bereits angedacht. Zum einen können die Daten direkt in die Routenberechnung von Navigationstools einfließen, zum anderen der Analyse und Planung im Bereich der (Rad-)Verkehrsplanung auf kommunaler Ebene dienen.
 
 # Team
+
+{% for member in site.data.team %}
+  {% include team.html member=member %}
+{% endfor %}
+
 # Kontakt
-Wir freuen uns über Fragen, Anregungen und Kooperationsmöglichkeiten: ***surface-ai@htw-berlin.de***
+<!-- &#x2011; non-break hyphen character -->
+Wir freuen uns über Fragen, Anregungen und Kooperationsmöglichkeiten: ***surface&#x2011;ai@htw&#x2011;berlin.de***
 
 &nbsp;
 

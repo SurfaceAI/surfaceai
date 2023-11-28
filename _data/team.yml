@@ -1,0 +1,17 @@
+# _data/team.yml
+
+- name: Helena Mihaljević
+  image: /assets/images/helena.png
+  description: Lorem ipsum 
+
+- name: Alexandra Kapp
+  image: /assets/images/alexandra.png
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+- name: Esther Weigmann
+  image: 
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+- name: Edith Hoffmann
+  image: /assets/images/edith.png
+  description: Lorem ipsum 

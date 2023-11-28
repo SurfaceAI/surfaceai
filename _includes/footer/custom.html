@@ -1,0 +1,18 @@
+<div class="page__footer-follow;" style="display: flex; align-items: flex-start; align-content: flex-start;">
+    <!-- TODO: nebeneinander -->
+    {% if site.footer.columns %}
+    {% for column in site.footer.columns %}
+    {% if column.group %}
+    <div style="padding: 0 4em 2em 0">
+        <h2>{{ column.group }}</h2>
+        <ul style="padding-left: 0.5em">
+            {% for item in column.items %}
+            <li style="display: block;"><a href="{{ item.href }}">{{ item.label }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    <p></p>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+</div>

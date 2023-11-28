@@ -19,7 +19,7 @@ locale                   : "de-DE"
 title                    : "SurfaceAI"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : # "HTW Berlin" # name in copyright
+name                     : "Helena Mihaljević" # name in copyright
 description              : "Project website of the HTW Berlin project SurfaceAI."
 url                      : "https://surfaceai.github.io"
 baseurl                  : "/SurfaceAI"
@@ -133,15 +133,25 @@ analytics:
 # # Site Footer
 footer:
   # copyrightText: Copyright © Redocly 2019-2021. All rights reserved.
-  # columns:
-  #   - group: Legal
-  #     items:
-  #       - label: Terms of Use
-  #         href: 'https://redocly.com/subscription-agreement/'
-  #       - label: Privacy Notice
-  #         href: 'https://redocly.com/privacy-policy/'
-  #       - label: Cookie Notice
-  #         href: 'https://redocly.com/privacy-policy/'
+  columns:
+    - group: Rechtliches
+      items:
+        - label: Impressum
+          href: '/SurfaceAI/imprint/'
+        - label: Datenschutzhinweis
+          href: '/SurfaceAI/datenschutz/'
+    # - group: Legal
+    #   items:
+    #     - label: Terms of Use
+    #       href: 'https://redocly.com/subscription-agreement/'
+    #     - label: Privacy Notice
+    #       href: 'https://redocly.com/privacy-policy/'
+    #     - label: Cookie Notice
+    #       href: 'https://redocly.com/privacy-policy/'
+    # - group: Inter
+    #   items:
+    #     - label: Terms of Use
+    #       href: 'https://redocly.com/subscription-agreement/'
   # links:
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
