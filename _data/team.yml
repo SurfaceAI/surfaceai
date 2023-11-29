@@ -2,11 +2,17 @@
 
 - name: Helena Mihaljević
   image: /assets/images/helena.png
-  description: 
+  description: Helena Mihaljević ist promovierte Mathematikerin mit Hintergund in dynamischen Systemen. 
+  Seit 2018 ist sie Professorin für Data Science an der Hochschule für Technik und Wirtschaft Berlin in Assoziation mit dem Einstein Center Digital Future. 
+  Sie forscht in interdisziplinären Projekten, u.a. im Bereich der datenbasierten Mobilitätsforschung, 
+  und bringt jahrelange Erfahrung in der Anwendung, Entwicklung und Optimierung von Algorithmen des maschinellen Lernens sowie der Erstellung 
+  von datengetriebener Software in das Projekt.
 
 - name: Alexandra Kapp
   image: /assets/images/alexandra.png
-  description: 
+  description: Alexandra Kapp ist wissenschaftliche Mitarbeiterin in der Hochschule für Technik und Wirtschaft Berlin.
+  Sie promoviert zu technischen Anonymisierungsmethoden für Mobilitätsdaten. 
+  2018 hat sie ihren Master of Science in Computing in the Humanities an der Otto-Friedrich-Universität Bamberg absolviert.
 
 - name: Esther Weigmann
   image: 
