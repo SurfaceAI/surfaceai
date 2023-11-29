@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Helena Mihaljević" # name in copyright
 description              : "Project website of the HTW Berlin project SurfaceAI."
 url                      : "https://surfaceai.github.io"
-baseurl                  : "/SurfaceAI"
+baseurl                  : "/surfaceai"
 repository               : surfaceai/surfaceai
 email                    : # Surface-AI@HTW-Berlin.de
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -137,9 +137,9 @@ footer:
     - group: Rechtliches
       items:
         - label: Impressum
-          href: '/SurfaceAI/imprint/'
+          href: '/surfaceai/imprint/'
         - label: Datenschutzhinweis
-          href: '/SurfaceAI/datenschutz/'
+          href: '/surfaceai/datenschutz/'
     # - group: Legal
     #   items:
     #     - label: Terms of Use
