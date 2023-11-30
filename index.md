@@ -18,7 +18,9 @@ Die automatische Bestimmung von Straßenbelag und -qualität ist für diverse An
 Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt SurfaceAI  soll diese Lücke schließen. Dazu wird mithilfe öffentlicher Geodaten und Straßenbildern ein Machine Learning Modell trainiert, das in der Lage ist, Straßenoberflächen und -qualität auf Bildern automatisiert und präzise einzustufen. Die generierten Informationen werden anschließend in georeferenzierte Datensätze auf Straßenebene umgewandelt, die öffentlich zugänglich sind.
 
 # Aktuelles
-- Links zu Konferenzen, Veröffentlichungen
+
+**10.1.2024: offizieller Projekt-Kickoff (online)**
+Teilnahmelink hier wird zeitnah bereitgestellt.
 
 # Anwendungsmöglichkeiten und assoziierte Projektpartner
 Das Projekt wird von verschiedenen Organisationen unterstützt, die die Ausarbeitung von Anwendungsbeispielen ermöglichen und die Vernetzung innerhalb der Community fördern. 
