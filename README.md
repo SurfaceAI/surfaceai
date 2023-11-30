@@ -5,6 +5,10 @@ Project Website
 This github page is set up with Jekyll. Jekyll is a static site generator with built-in support for GitHub Pages.
 The underlying theme is [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
 
+## Deploy changes on GitHub
+
+The content of the website can be changed directly in GitHub in the repository. The content of the main page is in the file _index.md_ . The elements of the footer are in __config.yml_ , the team members in __data/team.yml_ .
+
 ## How to locally update and test this page
 You need to have Jekyll installed, and Bundler is recommended. Follow [Jekyll Installation Instruction](https://jekyllrb.com/docs/installation/macos/) to install **Ruby** and **Jekyll** with **Homebrew**. Then **Bundler** should be installed with Ruby by default. See also [GitHub docu for Jekyll](https://docs.github.com/de/pages/setting-up-a-github-pages-site-with-jekyll)
 
@@ -41,7 +45,8 @@ Every page starts with the **document’s YAML Front Matter** like:
     excerpt: "Automatisierte Bestimmung"
     ---
 
-`layout` defines the theme page layout. [Minimal Mistakes Layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout). The rest is optional.
+`layout` defines the theme page layout. [Minimal Mistakes Layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout). It can be set in the front matter or in __config.yml_. The rest is optional.
+A layout defines the structure and appearance of a page. It is therefore sufficient to write the content of a page in a simple Markdown or html file.
 
 The main page is an _index.md_ or _index.html_ file.
 

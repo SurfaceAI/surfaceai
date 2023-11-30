@@ -1,5 +1,20 @@
-<div class="page__footer-follow;" style="display: flex; align-items: flex-start; align-content: flex-start;">
+<div class="page__footer-follow">
     <!-- TODO: nebeneinander -->
+    {% if site.footer.columns %}
+    {% for column in site.footer.columns %}
+    {% if column.group %}
+    <ul>
+        {% for item in column.items %}
+        <li><a href="{{ item.href }}">{{ item.label }}</a></li>
+        {% endfor %}
+    </ul>
+    <p></p>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+</div>
+
+<!-- <div class="page__footer-follow;" style="display: flex; align-items: flex-start; align-content: flex-start;">
     {% if site.footer.columns %}
     {% for column in site.footer.columns %}
     {% if column.group %}
@@ -15,4 +30,4 @@
     {% endif %}
     {% endfor %}
     {% endif %}
-</div>
+</div> -->
