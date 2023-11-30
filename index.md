@@ -6,11 +6,12 @@ header:
   overlay_image: /assets/images/Stockimage.jpg
   overlay_filter: rgba(100, 100, 100, 0.5)
   caption: "Foto: Girts Ragelis/Shutterstock"
-excerpt: "Automatisierte Bestimmung von Straßenbeschaffenheit durch Open Data und Machine Learning"
+excerpt: "Automatisierte Bestimmung von Straßenbeschaffenheit durch Open Data und Machine Learning <br> <br> 
+Laufzeit: November 2023 – Dezember 2024"
 ---
 
-Laufzeit: November 2023 – Dezember 2024
-{: .text-center}
+<!-- Laufzeit: November 2023 – Dezember 2024
+{: .text-center} -->
 
 Die automatische Bestimmung von Straßenbelag und -qualität ist für diverse Anwendungen im Verkehrsbereich, wie z.B. Routenplanung, von entscheidender Bedeutung. Es gibt jedoch nur wenige öffentlich zugängliche Datensätze zu Straßenbelag und -qualität in einem einheitlichen Format, da die Erstellung meist auf manueller Analyse beruht und einen erheblichen Aufwand erfordert. Insbesondere Kommunen können von solchen Datensätzen profitieren und sie für die Stadtplanung nutzen.
 
