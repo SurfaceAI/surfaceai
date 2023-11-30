@@ -1,3 +1,10 @@
+---
+layout: splash 
+# classes: wide
+title: "Privacy Policy"
+permalink: /privacy_en/
+---
+
 # Privacy policy
 
 ## Hosting
@@ -14,10 +21,10 @@ There is no tracking and we do not have direct access to this data.
 We use GitHub Pages as a hoster for the provision of our website, a service from
 
 
-GitHub Inc.
-88 Colin P Kelly Jr St
-San Francisco, CA 94107
-United States
+GitHub Inc.  
+88 Colin P Kelly Jr St  
+San Francisco, CA 94107  
+United States  
 
 
 This is the recipient of your personal data. This corresponds to our legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR in not having to maintain a server on our premises ourselves. Server location is USA.

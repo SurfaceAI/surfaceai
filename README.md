@@ -9,7 +9,7 @@ The underlying theme is [Minimal Mistakes](https://github.com/mmistakes/minimal-
 
 The content of the website can be changed directly in GitHub in the repository. The content of the main page is in the file _index.md_ . The elements of the footer are in __config.yml_ , the team members in __data/team.yml_ .
 
-## How to locally update and test this page
+### How to locally update and test this page
 You need to have Jekyll installed, and Bundler is recommended. Follow [Jekyll Installation Instruction](https://jekyllrb.com/docs/installation/macos/) to install **Ruby** and **Jekyll** with **Homebrew**. Then **Bundler** should be installed with Ruby by default. See also [GitHub docu for Jekyll](https://docs.github.com/de/pages/setting-up-a-github-pages-site-with-jekyll)
 
 To test the page go to the repository folder of this page in your terminal and run `bundle exec jekyll serve` . Follow the instructions in your terminal to open the site in your browser.
@@ -83,5 +83,9 @@ The Minimal Mistakes theme has a structure for a navigation bar implemented. The
 
 ### Multi-Lingual
 
+## Markdown Syntax
 
+- Line break without new paragraph: 2 spaces at the end of the line
+
+Short markdown syntax overview in [german](https://markdown-syntax.de/Syntax/)
 

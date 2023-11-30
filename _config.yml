@@ -138,8 +138,8 @@ footer:
       items:
         - label: Impressum
           href: '/surfaceai/imprint/'
-        - label: Datenschutzhinweis
-          href: '/surfaceai/datenschutz/'
+        - label: Datenschutzerklärung
+          href: '/surfaceai/privacy/'
     # - group: Legal
     #   items:
     #     - label: Terms of Use
