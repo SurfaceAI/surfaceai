@@ -36,4 +36,4 @@ Grundsätzlich ist ein Auftragsverarbeitungsvertrag mit dem Hoster abzuschließe
 
 ## Kontakt 
 
-Wenn Sie Fragen oder Anmerkungen zu diesem Hinweis haben, können Sie sich per E-Mail an surfaceai@htw-berlin.de wenden.
+Wenn Sie Fragen oder Anmerkungen zu diesem Hinweis haben, können Sie sich per E-Mail an surface&#x2011;ai@htw&#x2011;berlin.de wenden.
