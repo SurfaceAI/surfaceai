@@ -15,7 +15,7 @@ Automatic determination of road surface type and quality is essential for variou
 The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital and Transport Affairs, aims to address this gap. Open geodata and street images are leveraged to train a machine learning model capable of automatically and precisely categorizing road surfaces and quality in images. The resulting information is converted into georeferenced datasets at street level, which will be made publicly accessible.
 
 # News
-**10.1.2024 14.00-15.00: official Project Kickoff (online and in German)**
+**10.1.2024 2pm-3pm: official Project Kickoff (online and in German)**
 [Participation via Zoom](https://htw-berlin.zoom-x.de/j/63436322281?pwd=cE5iWm1DbmJ1TzFwdWNmTDNEdW93QT09)
 
 # Possible Applications and Associated Project Partners
