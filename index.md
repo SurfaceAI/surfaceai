@@ -21,8 +21,7 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 # Aktuelles
 
 **10.1.2024: offizieller Projekt-Kickoff (online)**
-Teilnahmelink hier wird zeitnah bereitgestellt.
-
+[Teilnahme über Zoom](https://htw-berlin.zoom-x.de/j/63436322281?pwd=cE5iWm1DbmJ1TzFwdWNmTDNEdW93QT09)
 # Anwendungsmöglichkeiten und assoziierte Projektpartner
 Das Projekt wird von verschiedenen Organisationen unterstützt, die die Ausarbeitung von Anwendungsbeispielen ermöglichen und die Vernetzung innerhalb der Community fördern. 
 

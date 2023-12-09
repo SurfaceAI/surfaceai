@@ -1,5 +1,5 @@
 # SurfaceAI
-Project Website
+[Project Website](https://surfaceai.github.io/surfaceai/)
 
 ## About
 This github page is set up with Jekyll. Jekyll is a static site generator with built-in support for GitHub Pages.
