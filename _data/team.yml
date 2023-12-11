@@ -8,10 +8,10 @@
   image: /assets/images/alexandra.png
   description: Alexandra Kapp ist wissenschaftliche Mitarbeiterin in der Hochschule für Technik und Wirtschaft Berlin. Sie promoviert zu technischen Anonymisierungsmethoden für Mobilitätsdaten. 2018 hat sie ihren Master of Science in Computing in the Humanities an der Otto-Friedrich-Universität Bamberg absolviert.
 
-- name: Esther Weigmann
-  image: /assets/images/esther.jpg
-  description: Esther Weigmann studiert Statistik im Master in Berlin. Im Rahmen ihres Studiums absolviert sie derzeit ein Praktikum an der HTW im Projekt SurfaceAI.
-
 - name: Edith Hoffmann
   image: /assets/images/edith.png
   description: Edith Hoffmann ist wissenschaftliche Mitarbeiterin an der Hochschule für Technik und Wirtschaft Berlin. Sie hat das Studium Technomathematik an der TU Kaiserslautern 2011 mit dem Diplom abgeschlossen. 2023 nahm sie an einer Data Science Fortbildung in Berlin teil.
+
+- name: Esther Weigmann
+  image: /assets/images/esther.jpg
+  description: Esther Weigmann studiert Statistik im Master in Berlin. Im Rahmen ihres Studiums absolviert sie derzeit ein Praktikum an der HTW im Projekt SurfaceAI.

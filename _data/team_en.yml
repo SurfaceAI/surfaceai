@@ -1,0 +1,18 @@
+# _data/team.yml
+
+- name: Prof. Dr. Helena Mihaljević
+  image: /assets/images/helena.png
+  description: Helena Mihaljević holds a doctorate in mathematics with a background in dynamic systems. Since 2018, she has been Professor of Data Science at the Berlin University of Applied Sciences in association with the Einstein Center Digital Future. She conducts research in interdisciplinary projects, including in the field of data-based mobility research, and brings years of experience in the application, development and optimization of machine learning algorithms and the creation of data-driven software to the project.
+
+- name: Alexandra Kapp
+  image: /assets/images/alexandra.png
+  description: Alexandra Kapp is a research assistant at the Berlin University of Applied Sciences. She is doing her doctorate on technical anonymization methods for mobility data. She completed her Master of Science in Computing in the Humanities at the Otto-Friedrich-University Bamberg in 2018.
+
+- name: Edith Hoffmann
+  image: /assets/images/edith.png
+  description: Edith Hoffmann is a research assistant at the Berlin University of Applied Sciences. She graduated from the TU Kaiserslautern in 2011 with a diploma in Technomathematics. In 2023 she took part in a data science training course in Berlin.
+
+- name: Esther Weigmann
+  image: /assets/images/esther.jpg
+  description: Esther Weigmann is studying for a Master's degree in Statistics in Berlin. As part of her studies, she is currently completing an internship at the HTW in the SurfaceAI project.
+
