@@ -33,8 +33,8 @@ Two specific application scenarios for the use of the automatically generated ro
 # Team
 
 
-{% for member in site.data.team %}
-  {% include team_en.html member=member %}
+{% for member in site.data.team_en %}
+  {% include team.html member=member %}
 {% endfor %}
 
 
