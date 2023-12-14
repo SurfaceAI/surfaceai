@@ -45,4 +45,4 @@ In principle, an order processing contract must be concluded with the hoster. Th
 
 ## Contact 
 
-If you have any questions or comments about this notice, you can contact us by email at surface&#x2011;ai@htw&#x2011;berlin.de.
+If you have any questions or comments about this notice, you can contact Helena Mihaljević by email at datenschutz@htw-berlin.de.
