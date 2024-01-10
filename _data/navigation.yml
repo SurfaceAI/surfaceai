@@ -1,8 +1,8 @@
 main:
-  # - title: "Home"
-  #   url: /
-  # - title: "Team"
-  #   url: /team/
+  - title: "DE"
+    url: /
+  - title: "EN"
+    url: /index_en
   # - title: "Blog"
   #   url: /blog/
   # - title: "Veröffentlichungen"
