@@ -20,8 +20,11 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 # Aktuelles
 
+**20.3.2024: FOSSGIS 2024** [Präsentation des Projekts auf der FOSSGIS Konferenz](https://pretalx.com/fossgis2024/talk/MHTEAN/)
+
 **10.1.2024 14.00-15.00: offizieller Projekt-Kickoff (online)**
 [Teilnahme über Zoom](https://htw-berlin.zoom-x.de/j/63436322281?pwd=cE5iWm1DbmJ1TzFwdWNmTDNEdW93QT09)
+
 # Anwendungsmöglichkeiten und assoziierte Projektpartner
 Das Projekt wird von verschiedenen Organisationen unterstützt, die die Ausarbeitung von Anwendungsbeispielen ermöglichen und die Vernetzung innerhalb der Community fördern. 
 
