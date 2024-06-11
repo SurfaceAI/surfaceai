@@ -20,7 +20,7 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 # Aktuelles
 
-**29.6.2024 17.00-24.00: Lange Nacht der Wissenschaften** an der HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [Programmdetails](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
+**22.6.2024 17.00-24.00: Lange Nacht der Wissenschaften** an der HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [Programmdetails](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
 
 **19.6.2024 13.00-18.00: Vortrag auf dem Informatiktag HTW Berlin** [Programmdetails](https://events.htw-berlin.de/karriere/informatiktag/)
 
