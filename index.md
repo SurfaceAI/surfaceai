@@ -20,6 +20,13 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 # Aktuelles
 
+**29.6.2024 17.00-24.00: Lange Nacht der Wissenschaften** an der HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [Programmdetails](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
+
+**19.06.2024 13.00 - 18.00: Vortrag am Informatiktag HTW Berlin** [Programmdetails](https://events.htw-berlin.de/karriere/informatiktag/)
+
+**04. Juni 2024 Veröffentlichung des SurfaceAI Datensatzes** [StreetSurfaceVis (doi: 10.5281/zenodo.11449976)](https://zenodo.org/records/11449977)
+
+
 **20.3.2024: FOSSGIS 2024** [Präsentation des Projekts auf der FOSSGIS Konferenz](https://pretalx.com/fossgis2024/talk/MHTEAN/)
 
 **10.1.2024 14.00-15.00: offizieller Projekt-Kickoff (online)**
