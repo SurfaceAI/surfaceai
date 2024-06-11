@@ -19,9 +19,9 @@ The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital 
 
 **29.6.2024 17.00-24.00: "Lange Nacht der Wissenschaften" (Long Night of Science)** at the HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [program details](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
 
-**19.06.2024 13.00-18.00: Presentation (in English) at the "Informatiktag" (computer science day) HTW Berlin** [program details](https://events.htw-berlin.de/karriere/informatiktag/)
+**19.6.2024 13.00-18.00: Presentation (in English) at the "Informatiktag" (computer science day) HTW Berlin** [program details](https://events.htw-berlin.de/karriere/informatiktag/)
 
-**04. Juni 2024 Publication of the SurfaceAI dataset** [StreetSurfaceVis (doi: 10.5281/zenodo.11449976)](https://zenodo.org/records/11449977)
+**4.6.2024 Publication of the SurfaceAI dataset** [StreetSurfaceVis (doi: 10.5281/zenodo.11449976)](https://zenodo.org/records/11449977)
 
 
 **20.3.2024: FOSSGIS 2024** [Presentation of the project at the FOSSGIS conference](https://pretalx.com/fossgis2024/talk/MHTEAN/)
