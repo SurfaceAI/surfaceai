@@ -17,7 +17,7 @@ The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital 
 
 # News
 
-**29.6.2024 5pm-12am: "Lange Nacht der Wissenschaften" (Long Night of Science)** at the HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [program details](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
+**22.6.2024 5pm-12am: "Lange Nacht der Wissenschaften" (Long Night of Science)** at the HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [program details](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
 
 **19.6.2024: Presentation (in English) at the "Informatiktag" (computer science day) HTW Berlin** [program details](https://events.htw-berlin.de/karriere/informatiktag/)
 
