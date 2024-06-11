@@ -24,7 +24,7 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 **19.6.2024 13.00-18.00: Vortrag auf dem Informatiktag HTW Berlin** [Programmdetails](https://events.htw-berlin.de/karriere/informatiktag/)
 
-**4.6.2024 Veröffentlichung des SurfaceAI Datensatzes** [StreetSurfaceVis (doi: 10.5281/zenodo.11449976)](https://zenodo.org/records/11449977)
+**4.6.2024: Veröffentlichung des SurfaceAI Datensatzes** [StreetSurfaceVis (doi: 10.5281/zenodo.11449976)](https://zenodo.org/records/11449977)
 
 
 **20.3.2024: FOSSGIS 2024** [Präsentation des Projekts auf der FOSSGIS Konferenz](https://pretalx.com/fossgis2024/talk/MHTEAN/)
