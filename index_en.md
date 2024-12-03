@@ -17,7 +17,7 @@ The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital 
 
 # News
 
-**29.10.2024:** presentation of our [**short paper**](https://arxiv.org/abs/2409.18922) at the [**UrbanAI Workshop of the SIGSPATIAL conference**](https://urbanai.ornl.gov/urbanai2024/)
+**29.10.2024:** presentation of our [**short paper**](https://dl.acm.org/doi/10.1145/3681780.3697277) at the [**UrbanAI Workshop of the SIGSPATIAL conference**](https://urbanai.ornl.gov/urbanai2024/)
 
 **22.6.2024 5pm-12am: "Lange Nacht der Wissenschaften" (Long Night of Science)** at the HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [program details](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
 
@@ -30,6 +30,15 @@ The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital 
 
 **10.1.2024 2pm-3pm: official Project Kickoff (online and in German)**
 [Participation via Zoom](https://htw-berlin.zoom-x.de/j/63436322281?pwd=cE5iWm1DbmJ1TzFwdWNmTDNEdW93QT09)
+
+# Releases
+- The first version of our [**program code**](https://github.com/SurfaceAI/road_network_classification) with the complete pipeline for enriching entire road networks with road surface and quality information is finished and can be downloaded on Github.
+
+- Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2024. [**SurfaceAI: Automated creation of cohesive road surface quality datasets based on open street-level imagery.**](https://doi.org/10.1145/3681780.3697277) In Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI '24). Association for Computing Machinery, New York, NY, USA, 54–57.
+
+- Preprint paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2024. [**StreetSurfaceVis: a dataset of crowdsourced street-level imagery annotated by road surface type and quality.**](https://arxiv.org/abs/2407.21454) arXiv preprint arXiv:2407.21454.
+
+- Dataset [**StreetSurfaceVis**](https://zenodo.org/records/11449977) consisting of street-level images from Germany with labels on the type and quality of the road surface
 
 # Possible Applications and Associated Project Partners
 The project is supported by various organisations that enable the development of use cases and promote networking within the community. 

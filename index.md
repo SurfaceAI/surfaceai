@@ -20,7 +20,7 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 # Aktuelles
 
-**29.10.2024:** Präsentation unseres [**short papers**](https://arxiv.org/abs/2409.18922) auf dem [**UrbanAI Workshop der SIGSPATIAL Conference**](https://urbanai.ornl.gov/urbanai2024/)
+**29.10.2024:** Präsentation unseres [**short papers**](https://dl.acm.org/doi/10.1145/3681780.3697277) auf dem [**UrbanAI Workshop der SIGSPATIAL Conference**](https://urbanai.ornl.gov/urbanai2024/)
 
 **22.6.2024 17.00-24.00: Lange Nacht der Wissenschaften** an der HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [Programmdetails](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
 
@@ -33,6 +33,15 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 **10.1.2024 14.00-15.00: offizieller Projekt-Kickoff (online)**
 [Teilnahme über Zoom](https://htw-berlin.zoom-x.de/j/63436322281?pwd=cE5iWm1DbmJ1TzFwdWNmTDNEdW93QT09)
+
+# Veröffentlichungen
+- Die erste Version unseres [**Programm-Codes**](https://github.com/SurfaceAI/road_network_classification) mit der vollständigen Pipeline zur Anreicherung ganzer Straßennetze mit den Informationen zu Straßenbelag und -qualität ist fertiggestellt und kann auf Github heruntergeladen werden.
+
+- Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2024. [**SurfaceAI: Automated creation of cohesive road surface quality datasets based on open street-level imagery.**](https://doi.org/10.1145/3681780.3697277) In Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI '24). Association for Computing Machinery, New York, NY, USA, 54–57.
+
+- Preprint Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2024. [**StreetSurfaceVis: a dataset of crowdsourced street-level imagery annotated by road surface type and quality.**](https://arxiv.org/abs/2407.21454) arXiv preprint arXiv:2407.21454.
+
+- Datensatz [**StreetSurfaceVis**](https://zenodo.org/records/11449977) bestehend aus Straßenbildern aus Deutschland mit Beschriftungen zu Art und Qualität der Straßenoberfläche
 
 # Anwendungsmöglichkeiten und assoziierte Projektpartner
 Das Projekt wird von verschiedenen Organisationen unterstützt, die die Ausarbeitung von Anwendungsbeispielen ermöglichen und die Vernetzung innerhalb der Community fördern. 
