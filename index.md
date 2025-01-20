@@ -20,6 +20,8 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 # Aktuelles
 
+**26.02.2025 9:00-10:00: offizielles Projekt-Abschlusstreffen (online)**. Teilnahme-Link bitte anfragen über surface&#x2011;ai@htw&#x2011;berlin.de 
+
 **29.10.2024:** Präsentation unseres [**short papers**](https://dl.acm.org/doi/10.1145/3681780.3697277) auf dem [**UrbanAI Workshop der SIGSPATIAL Conference**](https://urbanai.ornl.gov/urbanai2024/)
 
 **22.6.2024 17.00-24.00: Lange Nacht der Wissenschaften** an der HTW Berlin, Campus Wilhelminenhof, Gebäude C, Raum 604 [Programmdetails](https://events.htw-berlin.de/hochschule/lange-nacht-der-wissenschaften/)
@@ -39,7 +41,7 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 
 - Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2024. [**SurfaceAI: Automated creation of cohesive road surface quality datasets based on open street-level imagery.**](https://doi.org/10.1145/3681780.3697277) In Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI '24). Association for Computing Machinery, New York, NY, USA, 54–57.
 
-- Preprint Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2024. [**StreetSurfaceVis: a dataset of crowdsourced street-level imagery annotated by road surface type and quality.**](https://arxiv.org/abs/2407.21454) arXiv preprint arXiv:2407.21454.
+- Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2025. [**StreetSurfaceVis: a dataset of crowdsourced street-level imagery annotated by road surface type and quality.**](https://doi.org/10.1038/s41597-024-04295-9) Sci Data 12, 92 (2025).
 
 - Datensatz [**StreetSurfaceVis**](https://zenodo.org/records/11449977) bestehend aus Straßenbildern aus Deutschland mit Beschriftungen zu Art und Qualität der Straßenoberfläche
 
