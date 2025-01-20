@@ -7,7 +7,7 @@ header:
   overlay_filter: rgba(100, 100, 100, 0.5)
   caption: "Photo: Girts Ragelis/Shutterstock"
 excerpt: "Automatic Prediction of Road Surface Type and Quality using Open Data and Machine Learning <br> <br> 
-Duration: November 2023 - December 2024"
+Duration: November 2023 - February 2025"
 ---
 
 Automatic determination of road surface type and quality is essential for various applications in the transport sector, including route planning. However, there is a scarcity of publicly available datasets on road surface type and quality in a standardized format. Typically, such datasets rely on manual analysis and involve substantial effort. Municipalities, in particular, could benefit from these datasets by using them for effective urban planning. 
@@ -18,6 +18,8 @@ The mFund project, SurfaceAI, funded by the German Federal Ministry for Digital 
 # News
 
 **26.02.2025 9am-10am: official final project meeting (online and in German)**. Please request the participation link via surface&#x2011;ai@htw&#x2011;berlin.de 
+
+**16.01.2025:** Publication of our paper [**StreetSurfaceVis: a dataset of crowdsourced street-level imagery annotated by road surface type and quality**](https://doi.org/10.1038/s41597-024-04295-9) in **Scientific Data**
 
 **29.10.2024:** presentation of our [**short paper**](https://dl.acm.org/doi/10.1145/3681780.3697277) at the [**UrbanAI Workshop of the SIGSPATIAL conference**](https://urbanai.ornl.gov/urbanai2024/)
 

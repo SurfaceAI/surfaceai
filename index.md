@@ -7,7 +7,7 @@ header:
   overlay_filter: rgba(100, 100, 100, 0.5)
   caption: "Foto: Girts Ragelis/Shutterstock"
 excerpt: "Automatisierte Bestimmung von Straßenbeschaffenheit durch Open Data und Machine Learning <br> <br> 
-Laufzeit: November 2023 – Dezember 2024"
+Laufzeit: November 2023 – Februar 2025"
 ---
 
 <!-- Laufzeit: November 2023 – Dezember 2024
@@ -21,6 +21,8 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 # Aktuelles
 
 **26.02.2025 9:00-10:00: offizielles Projekt-Abschlusstreffen (online)**. Teilnahme-Link bitte anfragen über surface&#x2011;ai@htw&#x2011;berlin.de 
+
+**16.01.2025:** Veröffentlichung unseres Papers [**StreetSurfaceVis: a dataset of crowdsourced street-level imagery annotated by road surface type and quality**](https://doi.org/10.1038/s41597-024-04295-9) in **Scientific Data**
 
 **29.10.2024:** Präsentation unseres [**short papers**](https://dl.acm.org/doi/10.1145/3681780.3697277) auf dem [**UrbanAI Workshop der SIGSPATIAL Conference**](https://urbanai.ornl.gov/urbanai2024/)
 
