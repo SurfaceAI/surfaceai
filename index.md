@@ -41,6 +41,8 @@ Das vom Bundesministerium für Digitales und Verkehr geförderte mFund Projekt S
 # Veröffentlichungen
 - Die erste Version unseres [**Programm-Codes**](https://github.com/SurfaceAI/road_network_classification) mit der vollständigen Pipeline zur Anreicherung ganzer Straßennetze mit den Informationen zu Straßenbelag und -qualität ist fertiggestellt und kann auf Github heruntergeladen werden.
 
+- Die mit dem SurfaceAI Modell erzeugten **kommunalen Datensätze** der Städte/Stadtteile München, Berlin-Neukölln, Osnabrück und Dresden sind in der [Mobilithek](https://mobilithek.info/offers/804060514242924544) verfügbar.
+
 - Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2024. [**SurfaceAI: Automated creation of cohesive road surface quality datasets based on open street-level imagery.**](https://doi.org/10.1145/3681780.3697277) In Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI '24). Association for Computing Machinery, New York, NY, USA, 54–57.
 
 - Paper: Alexandra Kapp, Edith Hoffmann, Esther Weigmann, and Helena Mihaljević. 2025. [**StreetSurfaceVis: a dataset of crowdsourced street-level imagery annotated by road surface type and quality.**](https://doi.org/10.1038/s41597-024-04295-9) Sci Data 12, 92 (2025).
