@@ -68,7 +68,7 @@ Zwei konkrete Anwendungsbereiche für die Nutzung der automatisch generierten St
 
 # Kontakt
 <!-- &#x2011; non-break hyphen character -->
-Wir freuen uns über Fragen, Anregungen und Kooperationsmöglichkeiten: ***surface&#x2011;ai@htw&#x2011;berlin.de***
+Wir freuen uns über Fragen, Anregungen und Kooperationsmöglichkeiten: ***surface-ai@htw-berlin.de***
 
 &nbsp;
 

@@ -64,7 +64,7 @@ Two specific application scenarios for the use of the automatically generated ro
 {% endfor %}
 
 # Contact
-Please feel free to contact us if you have any questions, suggestions or requests for collaboration: ***surface&#x2011;ai@htw&#x2011;berlin.de***
+Please feel free to contact us if you have any questions, suggestions or requests for collaboration: ***surface-ai@htw-berlin.de***
 
 &nbsp;
 
